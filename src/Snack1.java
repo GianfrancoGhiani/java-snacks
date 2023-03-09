@@ -10,5 +10,6 @@ public class Snack1 {
         }else {
             System.out.println(userNum+1);
         }
+        scan.close();
     }
 }
